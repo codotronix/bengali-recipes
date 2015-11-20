@@ -1,0 +1,43 @@
+﻿{
+  "name": "Alu Posto",
+  "imgUrl" : "http://2.bp.blogspot.com/-Acbn2Jgnuok/Vk62oZzbbzI/AAAAAAAAAzQ/WlfsiJTkRuU/s1600/alu-posto.jpg",
+  "time": "20 mins",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "quantity": "500g - cut into small cubes"
+    },
+    {
+      "name": "Poppy Seeds",
+      "quantity": "25g - ground to a fine paste"
+    },
+    {
+      "name": "Turmeric Powder",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Green Chillie",
+      "quantity": "8 nos - ground to a fine paste"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Mustard Oil",
+      "quantity": "5 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    }
+  ],
+  "steps": [
+    "Heat oil in a frying pan and fry the potatoes till brown",
+    "Add salt and turmeric powder and blend it with the potatoes",
+    "Add poppy seed paste, green chillie paste and cook for 4 minutes stirring continuously",
+    "Add sugar and 2 cups of water and bring it to boil",
+    "Once boiling is reached, reduce flame and stirfry till the mixture attains a thick dry consistency",
+    "Your ALU POSTO is ready to be served"
+  ]
+}

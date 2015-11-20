@@ -1,0 +1,23 @@
+﻿<div class="recipe-details">
+    <div class="col-xs-12 col-sm-3">
+        <img src="data/recipe-images/dummy.png" class="img-responsive" data-ng-src="{{recipe.imgUrl}}"/>
+        <h1 data-ng-bind="recipe.name"></h1>
+        <h3 data-ng-bind="recipe.time"></h3>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+        <h2>Ingredients</h2>
+        <ul>
+            <li data-ng-repeat="ingredient in recipe.ingredients">
+                {{ingredient.name}} - {{ingredient.quantity}}
+            </li>
+        </ul>
+    </div>
+    <div class="col-xs-12 col-sm-5">
+        <h2>Preparation Steps</h2>
+        <ul>
+            <li data-ng-repeat="step in recipe.steps">
+                {{step}}
+            </li>
+        </ul>
+    </div>
+</div>

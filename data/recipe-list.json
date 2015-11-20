@@ -1,0 +1,69 @@
+﻿[
+  {
+    "name": "Alu Posto",
+    "id": "Alu-Posto",
+    "imgUrl" : "http://2.bp.blogspot.com/-Acbn2Jgnuok/Vk62oZzbbzI/AAAAAAAAAzQ/WlfsiJTkRuU/s1600/alu-posto.jpg"
+  },
+  {
+    "name": "Chillie Paneer",
+    "id": "Chillie-Paneer",
+    "imgUrl" : "http://2.bp.blogspot.com/-um_6fjyVhM4/Vk626jrEXbI/AAAAAAAAAzk/PT4lkGxiLxA/s1600/Chilli-Paneer.jpg"
+  },
+  {
+    "name": "Chingri Machher Malaikari",
+    "id": "Chingri-Machher-Malaikari",
+    "imgUrl" : ""
+  },
+  {
+    "name": "Chholar Daal with Mutton Kima",
+    "id": "c3"
+  },
+  {
+    "name": "Doi Sorshe Ilish",
+    "id": "d1"
+  },
+  {
+    "name": "Doi Rui Maach",
+    "id": "d2"
+  },
+  {
+    "name": "Fried Chana Daal with Paneer",
+    "id": "f1"
+  },
+  {
+    "name": "Mixed Vegetable Pulao",
+    "id": "m1"
+  },
+  {
+    "name": "Matar Paneer",
+    "id": "m2"
+  },
+  {
+    "name": "Mixed Vegetable Chutni",
+    "id": "m3"
+  },
+  {
+    "name": "Mocha Ghanto",
+    "id": "11"
+  },
+  {
+    "name": "Muri Ghonto",
+    "id": "12"
+  },
+  {
+    "name": "Palak Paneer",
+    "id": "13"
+  },
+  {
+    "name": "Potoler Daalna",
+    "id": "14"
+  },
+  {
+    "name": "Sweet Pulao",
+    "id": "15"
+  },
+  {
+    "name": "Shukto",
+    "id": "16"
+  }
+]

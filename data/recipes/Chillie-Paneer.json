@@ -1,0 +1,73 @@
+﻿{
+  "name": "Chillie Paneer",
+  "imgUrl" : "http://2.bp.blogspot.com/-um_6fjyVhM4/Vk626jrEXbI/AAAAAAAAAzk/PT4lkGxiLxA/s1600/Chilli-Paneer.jpg",
+  "time": "30 mins",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "quantity": "250g"
+    },
+    {
+      "name": "Onion",
+      "quantity": "4 nos. - chopped"
+    },
+    {
+      "name": "Capsicum",
+      "quantity": "1 no. - chopped"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "20 flakes - finely chopped"
+    },
+    {
+      "name": "Green Chillie",
+      "quantity": "5 nos. - finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": "6 teaspoons"
+    },
+    {
+      "name": "Green Chillie Sauce",
+      "quantity": "3 teaspoons"
+    },
+    {
+      "name": "Soya Sauce",
+      "quantity": "4 teaspoons"
+    },
+    {
+      "name": "Vinegar",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Cornflour",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Ajinamoto",
+      "quantity": "1 pinch"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Refined Oil",
+      "quantity": "As required"
+    }
+  ],
+  "steps": [
+    "Heat oil in a frying pan and lightly fry the paneer and keep aside",
+    "In the remaining oil add garlic, green chillie, capsicum and onion and stirfry till light brown",
+    "Add approximately 150 ml of water and add tomato sauce, chillie sauce, soya sauce and vinegar and bring to boil",
+    "Add sugar and salt",
+    "Add the paneer, cover pan with a lid and cook for 5 minutes in a low flame",
+    "Dissolve cornflour in 1/2 cup water and add to the mixture and cook for approximately for 2 to 3 minutes stirring continuously till a thick gravy is formed",
+    "Switch off the flame and add ajinamoto and stir",
+    "Your CHILLIE PANEER is ready to be served"
+  ]
+}

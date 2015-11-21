@@ -1,7 +1,7 @@
 ﻿body {
     /*background: #3A0909;*/
-    background: #000;
-    background: url("http://2.bp.blogspot.com/-9rAq3ib2EFY/VlAt4s8qx9I/AAAAAAAAA2k/IAO2m4Tkq-Q/s1600/bg4.jpg") fixed 0 0 no-repeat;
+    background: #791010;
+    /*background: url("http://2.bp.blogspot.com/-9rAq3ib2EFY/VlAt4s8qx9I/AAAAAAAAA2k/IAO2m4Tkq-Q/s1600/bg4.jpg") fixed 0 0 no-repeat;*/
     color: #FFF;
 }
 
@@ -22,6 +22,9 @@ ul {
 .recipe {
     display: block;
     position: relative;
+    border-radius: 15px;
+    border: 3px solid #FFF;
+    overflow: hidden;
 }
 
 .recipe-name {
@@ -73,6 +76,12 @@ ul {
 .recipe-details li {
     font-size: 15.3px;
     margin: 9px 0;
+}
+
+.recipe-details img {
+    border-radius: 15px;
+    border: 3px solid #FFF;
+    overflow: hidden;
 }
 
 @media (max-width: 767px) {

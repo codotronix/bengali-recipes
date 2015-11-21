@@ -46,7 +46,7 @@
      *****************************************************************************/
     .config(['$routeProvider','$locationProvider', function($routeProvider, $locationProvider){
         $locationProvider.html5Mode(false);
-        //$locationProvider.hashPrefix('!');
+        $locationProvider.hashPrefix('!');
         $routeProvider
         .when('/home', {
             templateUrl:'partials/home.html',

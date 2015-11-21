@@ -5,6 +5,11 @@
     "imgUrl" : "http://2.bp.blogspot.com/-Acbn2Jgnuok/Vk62oZzbbzI/AAAAAAAAAzQ/WlfsiJTkRuU/s1600/alu-posto.jpg"
   },
   {
+    "name": "Bandha Kopi",
+    "id": "Bandha-Kopi",
+    "imgUrl": "http://2.bp.blogspot.com/-d27yqQO1xbE/VlCls8QVOpI/AAAAAAAAA3s/0czt8eIv0Hw/s1600/Bandha-Kopi.JPG"
+  },
+  {
     "name": "Chillie Paneer",
     "id": "Chillie-Paneer",
     "imgUrl" : "http://2.bp.blogspot.com/-um_6fjyVhM4/Vk626jrEXbI/AAAAAAAAAzk/PT4lkGxiLxA/s1600/Chilli-Paneer.jpg"
@@ -28,6 +33,16 @@
     "name": "Doi Rui Maach",
     "id": "Doi-Rui-Maach",
     "imgUrl":"http://1.bp.blogspot.com/-QSXyU9A4wYQ/Vk91Y2ltLgI/AAAAAAAAA0A/1Rn93PTlqEw/s1600/doi%2Brui.jpg"
+  },
+  {
+    "name": "Dimer Dalna",
+    "id": "Dimer-Dalna",
+    "imgUrl": "http://2.bp.blogspot.com/-0GRLUNx5fGE/VlCjTNynlHI/AAAAAAAAA3E/Twez4LfPz7E/s1600/Dimer-Dalna.JPG"
+  },
+  {
+    "name": "Laal Note Shaak Bhaja",
+    "id": "Laal-Note-Shaak-Bhaja",
+    "imgUrl": "http://3.bp.blogspot.com/-5NVCBSz4V5Q/VlCjTJ4D0_I/AAAAAAAAA3M/ZwTAIVbrIWw/s1600/Laal-Note-Shaak-Bhaja.JPG"
   },
   {
     "name": "Mixed Vegetable Pulao",
@@ -63,6 +78,11 @@
     "name": "Potoler Daalna",
     "id": "Potoler-Daalna",
     "imgUrl":"http://2.bp.blogspot.com/-iV8mcl4utL4/VlAi-bO4ugI/AAAAAAAAA1A/EhjyEgwPWI0/s1600/potoler%2Bdalna.JPG"
+  },
+  {
+    "name": "Puti Macher Jhal",
+    "id": "Puti-Macher-Jhal",
+    "imgUrl": "http://2.bp.blogspot.com/-_n-Zwf_-ZB0/VlCl3W11GzI/AAAAAAAAA3w/dj5-4oQldvY/s1600/Puti-Macher-Jhal.JPG"
   },
   {
     "name": "Sweet Pulao",

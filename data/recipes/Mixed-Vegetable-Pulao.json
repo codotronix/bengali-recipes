@@ -1,0 +1,68 @@
+{
+  "name": "Mixed Vegetable Pulao",
+  "imgUrl" : "http://4.bp.blogspot.com/-ftdJrKeIJzY/Vk91Z9jJeOI/AAAAAAAAA0U/UkF2taDf-1k/s1600/veg-pulao.jpg",
+  "time": "30 mins",
+  "extreInfo": "",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "quantity": "250 gms"
+    },
+    {
+      "name": "Green Peas (Koraishuti)",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Beans",
+      "quantity": "75 gms cut into 1/2 inch pieces"
+    },
+    {
+      "name": "Carrots (Gajor)",
+      "quantity": "75 gms cut into 1/2 inch julienne"
+    },
+    {
+      "name": "Cardamom (Elaichi)",
+      "quantity": "4 nos."
+    },
+    {
+      "name": "Cinnamon (Darchini)",
+      "quantity": "2 nos."
+    },
+    {
+      "name": "Cloves (Lobongo)",
+      "quantity": "5 nos."
+    },
+    {
+      "name": "Bay leaves (Tejpata)",
+      "quantity": "2 nos."
+    },
+    {
+      "name": "Pure Ghee",
+      "quantity": "70 gms"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Water",
+      "quantity": "250 ml"
+    }  
+  ],
+  "steps": [
+      "Clean and wash rice thoroughly and keep aside.",
+      "Heat ghee in a pressure cooker.",
+      "Add bay leaves, cinnamon, cardamoms and cloves and stirfry till the spices crackle.",
+      "Add carrots, beans and peas and fry for 2-3 minutes.",
+      "Add the rice and stirfry for 2 minutes.",
+      "Add water, salt and sugar.",
+      "Close lid and place the pressure cooker on maximum heat.",
+      "When full cooking pressure is reached, reduce flame to medium heat and cook for 3 minutes.",
+      "Allow pressure cooker to cool for 3 minutes and open after releasing steam pressure.",
+      "Your Mixed Vegetable Pulao is ready to be served."
+  ]
+}

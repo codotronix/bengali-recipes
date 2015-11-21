@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
     <!--
         Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
         For details, see http://go.microsoft.com/fwlink/?LinkID=617521
@@ -11,12 +11,15 @@
     <title>BengaliRecipes</title>
 
     <!-- BengaliRecipes references -->
-    <link href="css/lib/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/lib/bootstrap.min.css" rel="stylesheet" />    
     <link href="css/index.css" rel="stylesheet" />
+    <link href="css/animate.css" rel="stylesheet" />
 
 </head>
 <body data-ng-app="bengrecipeapp" data-ng-controller="mainCtrl">
-    
+    <div class="row text-center">
+        <img src="images\logo\bengali-recipes-red-1.png" class="logo"/>
+    </div>
 
     <div class="container" data-ng-view=""></div>
 
@@ -26,6 +29,7 @@
     <script src="scripts/index.js"></script>
     <script src="scripts/lib/angular.min.js"></script>
     <script src="scripts/lib/angular-route.min.js"></script>
+    <script src="scripts/lib/angular-animate.min.js"></script>
     <script src="scripts/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,67 @@
+{
+  "name": "Sweet Pulao",
+  "imgUrl" : "http://4.bp.blogspot.com/-h0B55kbBmms/VlAnO1399yI/AAAAAAAAA1k/yHP6AUeJTag/s1600/sweet-pulao.jpg",
+  "time": "30 mins",
+  "extreInfo": "",
+  "ingredients": [
+    {
+      "name": "Gobindo Bhog Rice",
+      "quantity": "250 gms"
+    },
+    {
+      "name": "Green Peas (Koraishuti)",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Raisins (Kishmis)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Cashew nut (Kaju Badam)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Cinnamon (Darchini)",
+      "quantity": "4 nos."
+    },
+    {
+      "name": "Cardamom (Elaichi)",
+      "quantity": "6 nos."
+    },
+    {
+      "name": "Cloves (Lobongo)",
+      "quantity": "7 nos."
+    },
+    {
+      "name": "Bay leaves (Tejpata)",
+      "quantity": "4 nos."
+    },
+    {
+      "name": "Pure Ghee",
+      "quantity": "70 gms"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "4 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Water",
+      "quantity": "250 ml approx."
+    }
+  ],
+  "steps": [
+      "Clean and wash rice thoroughly and keep aside.",
+      "Heat puire ghee in a pressure cooker.",
+      "Add bay leaves, cinnamon, cardamoms and cloves and stirfry till the spices crackle.",
+      "Add the washed rice and fry for 2 minutes stirring continuously.",
+      "Add  peas, cashew nuts, raisins and fry for another 2 minutes stirring continuously to blend the mixture well. ",
+      "Add water salt and sugar.",
+      "Close lid and place pressure cooker on maximum heat.",
+      "When full cooking pressure is reached, reduce flame to medium heat and cook for 3 minutes.",
+      "Allow pressure cooker to cool for 2 minutes and open after releasing steam pressure."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Potoler Daalna",
+  "imgUrl" : "http://2.bp.blogspot.com/-iV8mcl4utL4/VlAi-bO4ugI/AAAAAAAAA1A/EhjyEgwPWI0/s1600/potoler%2Bdalna.JPG",
+  "time": "30 mins",
+  "extraInfo": "",
+  "ingredients": [
+    {
+      "name": "Parwal (Potol)",
+      "quantity": "500 gms"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "1 no. chopped"
+    },
+    {
+      "name": "Onion (Piyaj)",
+      "quantity": "2 nos. minced"
+    },
+    {
+      "name": "Curd (doi)",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "Mava (Khoa Kheer)",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Dry Red Chillie (Gota Shukno Lanka)",
+      "quantity": "2 nos."
+    },
+    {
+      "name": "Turmeric powder (Halud Guro)",
+      "quantity": "1  teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Red chillie powder (Guro Lanka)",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Ginger (Ada)",
+      "quantity": "1/2 inch ground to a fine paste"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Mustard Oil (Sorsher Tel)",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Ghee",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Water",
+      "quantity": "2 cup"
+    } 
+  ],
+  "steps": [
+      "Boil 2 cups of water and keep aside.",
+      "Heat Ghee and mustard oil in a frying pan and fry minced onions, ginger paste and whole red chillies till brown.",
+      "Add parwal, curd, coconut paste and fry for a few minutes.",
+      "Add chopped tomato, turmeric powder, red chillie powder, salt and sugar and simmer till the parwal is tender.",
+      "Add the boiled water, mava and garam masala.",
+      "Cover the pan with a lid and cook for 10 minutes on low flame."
+  ]
+}

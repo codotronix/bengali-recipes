@@ -1,5 +1,7 @@
 ﻿body {
-    background: #3A0909;
+    /*background: #3A0909;*/
+    background: #000;
+    background: url("http://2.bp.blogspot.com/-9rAq3ib2EFY/VlAt4s8qx9I/AAAAAAAAA2k/IAO2m4Tkq-Q/s1600/bg4.jpg") fixed 0 0 no-repeat;
     color: #FFF;
 }
 
@@ -7,6 +9,10 @@ ul {
     padding: 0;
     margin: 0;
     list-style: none;
+}
+
+.logo {
+  padding: 15px;
 }
 
 .recipe-container {
@@ -73,4 +79,12 @@ ul {
     .recipe-details h2 {
         margin-top: 30px;
     }
+}
+
+.animateSlideInRight,
+.ng-enter {
+    animation: slideInRight;
+    -webkit-animation: slideInRight;
+    animation-duration: 900ms;
+    -webkit-animation-duration: 900ms;
 }

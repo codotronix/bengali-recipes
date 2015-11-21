@@ -1,0 +1,73 @@
+{
+  "name": "Mixed Vegetable Chutni",
+  "imgUrl" : "http://3.bp.blogspot.com/-mpBBy8LIdCU/VlAi9l-xWPI/AAAAAAAAA0w/YML80IKrgsw/s1600/MixedVeg%2BChutney.jpg",
+  "time": "30 mins",
+  "extreInfo": "",
+  "ingredients": [
+    {
+      "name": "Pumpkin (Kumro)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Sweet potato (Ranga Alu)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Brinjal (Begun)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Raw papaya (Kacha Pepe)",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Green tomato (Sobuj Tomato)",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Beans",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Turmeric powder (Holud Guro)",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Mustard seeds (Sorshe)",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Tamarind (Tentul)",
+      "quantity": "20 gms"
+    },
+    {
+      "name": "Red chillies (Sukhno Lanka)",
+      "quantity": "2 nos."
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil (Sada Tel)",
+      "quantity": "4 teaspoons"
+    },
+    {
+      "name": "Water",
+      "quantity": "3 cups"
+    }  
+  ],
+  "steps": [
+      "Cut all vegetables into small juliennes and wash thoroughly.",
+      "Soak tamarind in water and extract the pulp.",
+      "Heat oil in a frying pan, add red chillies and mustard seeds and fry till the mustard seeds crackle.",
+      "Add all the vegetables and fry till slightly brown.",
+      "Add turmeric powder, salt, tamarind pulp and sugar.",
+      "Reduce to medium heat and cook for 10 min approximately, stirring continuously till the vegetables are tender.",
+      "Your Mixed Vegetable Chutni is ready."
+  ]
+}

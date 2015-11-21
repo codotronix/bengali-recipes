@@ -3,7 +3,7 @@
  * we will call it
  */
 (function () {
-    angular.module('bengrecipeapp', ['ngRoute'])
+    angular.module('bengrecipeapp', ['ngRoute', 'ngAnimate'])
 
     /***********************************************************************
      * mainCtrl

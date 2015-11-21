@@ -1,0 +1,64 @@
+{
+  "name": "Palak Paneer",
+  "imgUrl" : "http://2.bp.blogspot.com/-jNFV4Aq6fOo/VlAi926nGJI/AAAAAAAAA04/saqgC_NAvI8/s1600/Palak%2BPaneer.jpg",
+  "time": "30 mins",
+  "extreInfo": "",
+  "ingredients": [
+    {
+      "name": "Spinach (Palak)",
+      "quantity": "1 Kg"
+    },
+    {
+      "name": "Paneer",
+      "quantity": "200 gms cut into small cubes"
+    },
+    {
+      "name": "Large Onion (Piyaj)",
+      "quantity": "3 nos. - ground to a paste"
+    },
+    {
+      "name": "Garlic (Lasun)",
+      "quantity": "12 flakes - ground to a paste"
+    },
+    {
+      "name": "Green Chillies (Kancha Lanka)",
+      "quantity": "2 nos. - ground to a paste"
+    },
+    {
+      "name": "Dry Red Chillies (Sukno Lanka)",
+      "quantity": "2 nos"
+    },
+    {
+      "name": "Turmeric Powder (Guro Halud)",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Tomato Ketchup",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Butter",
+      "quantity": "50 gms"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "quantity": "As per taste"
+    }
+  ],
+  "steps": [
+      "Chop and wash the spinach and grind to a paste.",
+      "Heat 25 gms butter in a frying pan and fry the paneer lightly and keep aside.",
+      "In the remaining butter in the frying pan fry the red chillies, then add onion, garlic, green chillie paste and turmeric powder and stir fry till oil separates from the mixture.",
+      "Add Spinach paste, sugar and salt and cook for 10 minutes stirring continuously.",
+      "Add paneer cubes and simmer for 10 minutes.",
+      "Add garam masala, tomato ketchup and the remaining 25 gms butter and stir continuously till the mixture acquires a tight consistency."
+  ]
+}

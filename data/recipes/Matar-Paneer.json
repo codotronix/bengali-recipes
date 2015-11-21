@@ -1,0 +1,76 @@
+{
+  "name": "Matar Paneer",
+  "imgUrl" : "http://4.bp.blogspot.com/-2rUKEFGbK3w/VlAnOzllBnI/AAAAAAAAA1o/YtWJGy0tw7E/s1600/matar-paneer.jpg",
+  "time": "30 mins",
+  "extreInfo": "",
+  "ingredients": [
+    {
+      "name": "Green Peas (Karaishuti)",
+      "quantity": "500 gms"
+    },
+    {
+      "name": "Paneer",
+      "quantity": "200 gms cut into small cubes"
+    },
+    {
+      "name": "Onion (Piyaj)",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Turmeric Powder (Holud Guro)",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Chillie Powder (Shukno Lanka Guro)",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "quantity": "1 teaspoon"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": "100 gms"
+    },
+    {
+      "name": "Ginger (Ada)",
+      "quantity": "1 inch ground to a fine paste"
+    },
+    {
+      "name": "Cumin Powder (Jeera Guro)",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "quantity": "to taste"
+    },
+    {
+      "name": "Mustard Oil (Sorshe Tel)",
+      "quantity": "5 teaspoons"
+    },
+    {
+      "name": "Pure Ghee",
+      "quantity": "2 teaspoons"
+    },
+    {
+      "name": "Wheat Flour",
+      "quantity": "1 teaspoon"
+    }  
+  ],
+  "steps": [
+      "Heat mustard oil in a frying pan.",
+      "Add the paneer cubes, fry lightly and keep aside.",
+      "Add onions and fry till golden brown.",
+      "Add ginger paste, cumin powder, turmeric powder, tomatoes, chillie powder, salt and sugar.",
+      "Fry the mixture till oil seperates from the masala.",
+      "Add green peas and stirfry for 2 minutes.",
+      "Add water, cover pan with a lid and cook for 10 minutes.",
+      "Add paneer and boil for 5 minutes till the green peas are tender.",
+      "Add wheat flour, pure ghee, garam masala and cook for 2 minutes, stirring continuously.",
+      "Your Matar Paneer is ready... Serve it hot."
+  ]
+}

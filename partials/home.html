@@ -1,8 +1,26 @@
 ﻿<div>
     <!--Welcome to {{name}}-->
+    <div class="srchNFilter marginTop15 clearfix">
+    	<div class="col-xs-12 col-sm-4 col-md-3">
+    		<select class="form-control" data-ng-model="vegNveg">
+    			<option value="">Veg / Non-Veg</option>
+    			<option value="pure-veg">Veg</option>
+    			<option value="non-veg">Non-Veg</option>
+    		</select>
+    	</div>
+    	<div class="col-xs-12 col-sm-4 col-md-3">
+    		<input type="text" class="form-control" data-ng-model="filter1" placeholder="Filter 1" />
+    	</div>
+    	<div class="col-xs-12 col-sm-4 col-md-3">
+    		<input type="text" class="form-control" data-ng-model="filter2" placeholder="Filter 2" />
+    	</div>
+    	<div class="col-xs-12 col-sm-4 col-md-3">
+    		<input type="text" class="form-control" data-ng-model="filter3" placeholder="Filter 3" />
+    	</div>
+    </div>
     <ul>
-        <li class="col-xs-12 col-sm-4 col-md-3 recipe-container" data-ng-repeat="recipe in recipes">
-            <a href="#!/recipe/{{recipe.id}}" class="recipe">
+        <li class="col-xs-12 col-sm-4 col-md-3 recipe-container" data-ng-repeat="recipe in recipes | filter:vegNveg | filter:filter1 | filter:filter2 | filter:filter3">
+            <a href="#!/recipe/{{recipe.id}}" class="recipe" data-tag="{{recipe.tag}}">
                 <img src="data/recipe-images/dummy.png" class="recipe-img" data-ng-src="{{recipe.imgUrl}}"/>
                 <span class="recipe-name" data-ng-bind="recipe.name"></span>
             </a>            

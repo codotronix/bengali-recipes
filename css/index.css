@@ -11,8 +11,12 @@ ul {
     list-style: none;
 }
 
+.marginTop15 {
+  margin-top: 15px;
+}
+
 .logo {
-  padding: 15px;
+  /*padding-top: 15px;*/
 }
 
 .recipe-container {

@@ -3,12 +3,21 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Online Shopping Mall"/>
+    <meta property="og:site_name" content="Offers Plus"/>
+    <meta property="og:url" content="http://offersplus.in"/>    
+    <meta property="og:image" content=""/>
+    <meta property="og:description" content="A website that aims to be a collection of all the Bengali Recipes. Veg recipes include various 'daal', 'shaak', 'chochchori', 'chhechki' etc and non-veg recipes include various preparations of Bengali's favourite fishes, mutton, chicken, 'malaikari', 'jhol', 'jhaal', 'daalna (dalna)' etc. And not to forget, Bengalis are also known for their variety of sweets and chutneys. We are here to touch every nook and corner of Bengali food, from both East Bengal and West Bengal. If you are looking for some treats for your taste buds with Recipes of Bengal, your search ends here..."/>
+    <meta property="fb:admins" content="100000196062998" />
     <!--
         Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
         For details, see http://go.microsoft.com/fwlink/?LinkID=617521
     -->
     <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">-->
-    <title>BengaliRecipes</title>
+    <title>Bengali Recipes - All veg and non-veg recipes of Bengal</title>
 
     <!-- BengaliRecipes references -->
     <link href="css/lib/bootstrap.min.css" rel="stylesheet" />    
@@ -21,7 +30,9 @@
         <div class="col-xs-12 col-sm-4 col-md-3">
             <img src="images\logo\bengali-recipes-red-1.png" class="logo img-responsive marginTop15"/>
         </div>
-        
+        <div class="col-xs-12 col-sm-4 col-md-3">
+            <!--<div class="fb-like" data-href="https://www.facebook.com/bengali.recipes.in/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>-->
+        </div>
     </div>
 
     <div class="container" data-ng-view=""></div>
@@ -33,6 +44,8 @@
     <script src="scripts/lib/angular.min.js"></script>
     <script src="scripts/lib/angular-route.min.js"></script>
     <script src="scripts/lib/angular-animate.min.js"></script>
-    <script src="scripts/app.js"></script>
+    <!--<script src="scripts/br.js"></script>-->
+    <script src="scripts/app.min.js"></script>
+    <!--<div data-ng-init="xtrnalLoad=false" data-ng-if="xtrnalLoad" data-ng-include="'partials/sharing.html'"></div>-->
 </body>
 </html>

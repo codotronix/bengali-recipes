@@ -41,7 +41,9 @@
     .controller('homeCtrl', ["$scope", "$http", "$routeParams", "$location", "recipeDB", function ($scope, $http, $routeParams, $location, recipeDB) {
         $scope.name = "Home Page";
         //console.log($routeParams);       
-
+        $scope.filter1 = "";
+        $scope.filter2 = "";
+        $scope.filter3 = "";
         recipeDB.getRecipes().then(function (res) {
             //console.log(res);
             $scope.recipes = res;
@@ -56,7 +58,6 @@
     .controller('recipeCtrl', ["$scope", "$http", "$routeParams", function ($scope, $http, $routeParams) {
         //console.log($routeParams);
         var fileUrl = "data/recipes/" + $routeParams.id + '.json';
-
         $http.get(fileUrl).then(function (res) {
             $scope.recipe = res.data;
         }, function (err) {

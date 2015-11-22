@@ -9,13 +9,13 @@
     		</select>
     	</div>
     	<div class="col-xs-12 col-sm-4 col-md-3">
-    		<input type="text" class="form-control" data-ng-model="filter1" placeholder="Filter 1" />
+    		<input id="filter1" type="text" class="form-control filtr" data-ng-model="filter1" placeholder="Filter 1" />
     	</div>
     	<div class="col-xs-12 col-sm-4 col-md-3">
-    		<input type="text" class="form-control" data-ng-model="filter2" placeholder="Filter 2" />
+    		<input id="filter2" type="text" class="form-control filtr" data-ng-model="filter2" placeholder="Filter 2" data-ng-show="filter1"/>
     	</div>
     	<div class="col-xs-12 col-sm-4 col-md-3">
-    		<input type="text" class="form-control" data-ng-model="filter3" placeholder="Filter 3" />
+    		<input id="filter3" type="text" class="form-control filtr" data-ng-model="filter3" placeholder="Filter 3" data-ng-show="filter2"/>
     	</div>
     </div>
     <ul>

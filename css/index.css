@@ -91,7 +91,17 @@ ul {
 
 @media (max-width: 767px) {
     .recipe-details h2 {
-        margin-top: 30px;
+      margin-top: 30px;
+    }
+
+    .filtr {
+      margin-top: 10px;
+    }
+}
+
+@media (max-width: 991px) {
+    #filter3 {
+      display: none;
     }
 }
 

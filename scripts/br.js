@@ -1,4 +1,5 @@
 ﻿/*
+ * This is THE APP.JS ... changed the name for difficulty to unwanted code-seers
  * Let this be a global function, so whenever the device/cordova is ready, 
  * we will call it
  */
@@ -31,8 +32,15 @@
     /***********************************************************************
      * mainCtrl
      ***********************************************************************/
-    .controller('mainCtrl', ["$scope", function ($scope) {
+    .controller('mainCtrl', ["$scope", "$timeout", function ($scope, $timeout) {
         $scope.name = "Bengali Recipe";
+
+        /*Start FB Social loading after a few seconds to give other things time to load*/
+        /*function startLoadingXtrnalScript() {
+        	console.log('now it will load...');
+            $scope.xtrnalLoad = true;
+        }        
+        $timeout(startLoadingXtrnalScript, 7000);*/
     }])
 
     /***********************************************************************
@@ -87,11 +95,11 @@
     	this.getRecipes = function () {
     		var deferred = $q.defer();
     		if (allRecipes != "" && allRecipes.length > 0) {
-    			console.log('Serving from previously read recipeDB...');
+    			//console.log('Serving from previously read recipeDB...');
     			deferred.resolve(allRecipes);
     		} else {
     			this.updateRecipes().then(function () {
-    				console.log('Serving from newly read recipeDB...');
+    				//console.log('Serving from newly read recipeDB...');
     				deferred.resolve(allRecipes);
     			}, function (err) {
     				deferred.reject(err);

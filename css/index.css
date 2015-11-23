@@ -23,6 +23,18 @@ ul {
     padding: 15px;
 }
 
+.recipe-container .fa-heart {
+    color: rgba(119, 0, 245, 0.5);
+    font-size: 25px;
+    top: 5px;
+    position: absolute;
+    left: 5px;
+}
+
+.recipe-container .fa-heart.fav {
+  color: rgb(206, 0, 0);
+}
+
 .recipe {
     display: block;
     position: relative;

@@ -53,11 +53,20 @@
         $scope.filter2 = "";
         $scope.filter3 = "";
         recipeDB.getRecipes().then(function (res) {
-            //console.log(res);
             $scope.recipes = res;
         }, function (err) {
             console.log(err);
         });
+
+        $scope.addFavRecipe = function (ev, recipeID) {
+        	ev.stopPropagation();
+        	ev.preventDefault();
+        	//var recipeID = angular.element(ev.target).attr('data-recipeID');
+        	//console.log(ev.target);
+        	recipeDB.addFavRecipe(recipeID);
+        };
+
+        $scope.isFav = recipeDB.isFav;
     }])
 
     /****************************************************************************
@@ -78,6 +87,7 @@
      *******************************************************************************/
     .service('recipeDB', ["$q", "$http", function ($q, $http) {
     	var allRecipes = "";
+    	var favRecipes = [];
 
     	this.updateRecipes = function () {
     		var deferred = $q.defer();
@@ -107,6 +117,29 @@
     		}
     		return deferred.promise;
     	};
+
+
+    	this.addFavRecipe = function (recipeID) {
+    		//if already present then remove, otherwise add
+    		if (favRecipes.indexOf(recipeID) < 0) {
+    			favRecipes.push(recipeID);
+    		} else {
+    			favRecipes.splice(favRecipes.indexOf(recipeID),1);
+    		}
+
+    		//console.log(favRecipes);
+    	};
+
+    	this.isFav = function (recipeID) {
+    		if (favRecipes.indexOf(recipeID) < 0) {
+    			return false;
+    		} else {
+    			return true;
+    		}
+    	};
+
     }])
+
+    
     
 })();

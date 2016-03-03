@@ -1,116 +1,116 @@
-﻿[
+[
   {
     "name": "Alu Posto",
     "id": "Alu-Posto",
-    "imgUrl": "http://2.bp.blogspot.com/-Acbn2Jgnuok/Vk62oZzbbzI/AAAAAAAAAzQ/WlfsiJTkRuU/s1600/alu-posto.jpg",
+    "imgUrl": "data/recipe-images/alu-posto.jpg",
     "tag": "pure-veg,poppy seed,potato"
   },
   {
     "name": "Bandha Kopi",
     "id": "Bandha-Kopi",
-    "imgUrl": "http://2.bp.blogspot.com/-d27yqQO1xbE/VlCls8QVOpI/AAAAAAAAA3s/0czt8eIv0Hw/s1600/Bandha-Kopi.JPG",
+    "imgUrl": "data/recipe-images/Bandha-Kopi.JPG",
     "tag": "pure-veg,cabbage,gobi"
   },
   {
     "name": "Chillie Paneer",
     "id": "Chillie-Paneer",
-    "imgUrl": "http://2.bp.blogspot.com/-um_6fjyVhM4/Vk626jrEXbI/AAAAAAAAAzk/PT4lkGxiLxA/s1600/Chilli-Paneer.jpg",
+    "imgUrl": "data/recipe-images/Chilli-Paneer.jpg",
     "tag": "pure-veg"
   },
   {
     "name": "Chingri Machher Malaikari",
     "id": "Chingri-Machher-Malaikari",
-    "imgUrl": "http://2.bp.blogspot.com/-Q82DRu_MTzM/Vk91Ywvo56I/AAAAAAAAA0E/EReIPt1H9oM/s1600/Chingri-Machher-Malaikari.jpg",
+    "imgUrl": "data/recipe-images/Chingri-Machher-Malaikari.jpg",
     "tag": "non-veg,fish,prawn"
   },
   {
     "name": "Chholar Daal with Mutton Kima",
     "id": "Chholar-Daal-with-Mutton-Kima",
-    "imgUrl":"http://3.bp.blogspot.com/--qzFjXrmDkc/Vk91Y3P6ElI/AAAAAAAAAz8/aQapUiCVOpE/s1600/Chholar%2BDaal%2Bwith%2BKeema.JPG",
+    "imgUrl":"data/recipe-images/Chholar-Daal-with-Keema.JPG",
     "tag": "non-veg,Gram,keema,meat"
   },
   {
     "name": "Doi Sorshe Ilish",
     "id": "Doi-Sorshe-Ilish",
-    "imgUrl":"http://1.bp.blogspot.com/-8LxXIUtdVBo/Vk91ZnES8bI/AAAAAAAAA0I/rcxJiisgj6c/s1600/doi%2Bsorshe%2Bilish.jpg",
+    "imgUrl":"data/recipe-images/doi-sorshe-ilish.jpg",
     "tag": "non-veg,hilsa,curd,fish,mustard"
   },
   {
     "name": "Doi Rui Machh",
     "id": "Doi-Rui-Maach",
-    "imgUrl":"http://1.bp.blogspot.com/-QSXyU9A4wYQ/Vk91Y2ltLgI/AAAAAAAAA0A/1Rn93PTlqEw/s1600/doi%2Brui.jpg",
+    "imgUrl":"data/recipe-images/doi-rui.jpg",
     "tag": "non-veg,fish,rohu,curd"
   },
   {
     "name": "Dimer Dalna",
     "id": "Dimer-Dalna",
-    "imgUrl": "http://2.bp.blogspot.com/-0GRLUNx5fGE/VlCjTNynlHI/AAAAAAAAA3E/Twez4LfPz7E/s1600/Dimer-Dalna.JPG",
+    "imgUrl": "data/recipe-images/Dimer-Dalna.JPG",
     "tag": "non-veg,egg,curry,jhol"
   },
   {
     "name": "Laal Note Shaak Bhaja",
     "id": "Laal-Note-Shaak-Bhaja",
-    "imgUrl": "http://3.bp.blogspot.com/-5NVCBSz4V5Q/VlCjTJ4D0_I/AAAAAAAAA3M/ZwTAIVbrIWw/s1600/Laal-Note-Shaak-Bhaja.JPG",
+    "imgUrl": "data/recipe-images/Laal-Note-Shaak-Bhaja.JPG",
     "tag": "pure-veg,red,leaves,fry fried"
   },
   {
     "name": "Mixed Vegetable Pulao",
     "id": "Mixed-Vegetable-Pulao",
-    "imgUrl":"http://4.bp.blogspot.com/-ftdJrKeIJzY/Vk91Z9jJeOI/AAAAAAAAA0U/UkF2taDf-1k/s1600/veg-pulao.jpg",
+    "imgUrl":"data/recipe-images/veg-pulao.jpg",
     "tag": "pure-veg,mixed,rice"
   },
   {
     "name": "Matar Paneer",
     "id": "Matar-Paneer",
-    "imgUrl": "http://4.bp.blogspot.com/-2rUKEFGbK3w/VlAnOzllBnI/AAAAAAAAA1o/YtWJGy0tw7E/s1600/matar-paneer.jpg",
+    "imgUrl": "data/recipe-images/matar-paneer.jpg",
     "tag": "pure-veg,motor peas"
   },
   {
     "name": "Mixed Vegetable Chutni",
     "id": "Mixed-Vegetable-Chutni",
-    "imgUrl":"http://3.bp.blogspot.com/-mpBBy8LIdCU/VlAi9l-xWPI/AAAAAAAAA0w/YML80IKrgsw/s1600/MixedVeg%2BChutney.jpg",
+    "imgUrl":"data/recipe-images/Mixed-Veg-Chutney.jpg",
     "tag": "pure-veg,mixed,chutney,sweet,pumpkin,Brinjal,tomato,papaya,beans"
   },
   {
     "name": "Mocha Ghanto",
     "id": "Mocha-Ghanto",
-    "imgUrl":"http://2.bp.blogspot.com/-jqCQWpSsReU/VlAi95ik57I/AAAAAAAAA00/ZA8py0ThyUc/s1600/Mochar%2BGhonto.jpg",
+    "imgUrl":"data/recipe-images/Mochar-Ghonto.jpg",
     "tag": "pure-veg,banana"
   },
   {
     "name": "Muri Ghonto",
     "id": "Muri-Ghonto",
-    "imgUrl": "http://2.bp.blogspot.com/-WElJVQibJG4/VlAnOwOEMnI/AAAAAAAAA1g/zRR3GU9vPZo/s1600/murighonto1.jpg",
+    "imgUrl": "data/recipe-images/murighonto1.jpg",
     "tag": "non-veg,rice,fish"
   },
   {
     "name": "Palak Paneer",
     "id": "Palak-Paneer",
-    "imgUrl":"http://2.bp.blogspot.com/-jNFV4Aq6fOo/VlAi926nGJI/AAAAAAAAA04/saqgC_NAvI8/s1600/Palak%2BPaneer.jpg",
+    "imgUrl":"data/recipe-images/Palak-Paneer.jpg",
     "tag": "pure-veg,spinach"
   },
   {
     "name": "Potoler Daalna",
     "id": "Potoler-Daalna",
-    "imgUrl":"http://2.bp.blogspot.com/-iV8mcl4utL4/VlAi-bO4ugI/AAAAAAAAA1A/EhjyEgwPWI0/s1600/potoler%2Bdalna.JPG",
+    "imgUrl":"data/recipe-images/potoler-dalna.JPG",
     "tag": "pure-veg,parwal parval,curry,jhol, "
   },
   {
     "name": "Puti Machher Jhal",
     "id": "Puti-Macher-Jhal",
-    "imgUrl": "http://2.bp.blogspot.com/-_n-Zwf_-ZB0/VlCl3W11GzI/AAAAAAAAA3w/dj5-4oQldvY/s1600/Puti-Macher-Jhal.JPG",
+    "imgUrl": "data/recipe-images/Puti-Macher-Jhal.JPG",
     "tag": "non-veg, fish, kucho "
   },
   {
     "name": "Sweet Pulao",
     "id": "Sweet-Pulao",
-    "imgUrl": "http://4.bp.blogspot.com/-h0B55kbBmms/VlAnO1399yI/AAAAAAAAA1k/yHP6AUeJTag/s1600/sweet-pulao.jpg",
+    "imgUrl": "data/recipe-images/sweet-pulao.jpg",
     "tag": "pure-veg, rice, Peas Koraishuti"
   },
   {
     "name": "Shukto",
     "id": "Shukto",
-    "imgUrl": "http://2.bp.blogspot.com/-qTc_zil_Emo/VlAi-WBtd9I/AAAAAAAAA08/h260mpoYLkg/s1600/Sojne%2Bdata%2Bdiye%2Bshukto.jpg",
+    "imgUrl": "data/recipe-images/Sojne-data-diye-shukto.jpg",
     "tag": "pure-veg,sour,green,Drumsticks Shojne Sojne Data,French Beans Shim,Radish Mulo,Papaya Pepe,Carrot Gajor,Pumpkin Kumro,Brinjal Begun,Gourd Karola karala,Banana kola kela kala,Coconut,Vadi bodi bori"
   }
 ]

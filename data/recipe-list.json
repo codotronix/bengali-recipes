@@ -1,116 +1,210 @@
-[
-  {
+[{
     "name": "Alu Posto",
     "id": "Alu-Posto",
     "imgUrl": "data/recipe-images/alu-posto.jpg",
-    "tag": "pure-veg,poppy seed,potato"
-  },
-  {
+    "tag": "pure-veg,poppy seed,potato",
+    "slNo": "0",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Bandha Kopi",
     "id": "Bandha-Kopi",
     "imgUrl": "data/recipe-images/Bandha-Kopi.JPG",
-    "tag": "pure-veg,cabbage,gobi"
-  },
-  {
+    "tag": "pure-veg,cabbage,gobi",
+    "slNo": "1",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Chillie Paneer",
     "id": "Chillie-Paneer",
     "imgUrl": "data/recipe-images/Chilli-Paneer.jpg",
-    "tag": "pure-veg"
-  },
-  {
+    "tag": "pure-veg",
+    "slNo": "2",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Chingri Machher Malaikari",
     "id": "Chingri-Machher-Malaikari",
     "imgUrl": "data/recipe-images/Chingri-Machher-Malaikari.jpg",
-    "tag": "non-veg,fish,prawn"
-  },
-  {
+    "tag": "non-veg,fish,prawn",
+    "slNo": "3",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Chholar Daal with Mutton Kima",
     "id": "Chholar-Daal-with-Mutton-Kima",
-    "imgUrl":"data/recipe-images/Chholar-Daal-with-Keema.JPG",
-    "tag": "non-veg,Gram,keema,meat"
-  },
-  {
+    "imgUrl": "data/recipe-images/Chholar-Daal-with-Keema.JPG",
+    "tag": "non-veg,Gram,keema,meat",
+    "slNo": "4",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Doi Sorshe Ilish",
     "id": "Doi-Sorshe-Ilish",
-    "imgUrl":"data/recipe-images/doi-sorshe-ilish.jpg",
-    "tag": "non-veg,hilsa,curd,fish,mustard"
-  },
-  {
+    "imgUrl": "data/recipe-images/doi-sorshe-ilish.jpg",
+    "tag": "non-veg,hilsa,curd,fish,mustard",
+    "slNo": "5",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Doi Rui Machh",
     "id": "Doi-Rui-Maach",
-    "imgUrl":"data/recipe-images/doi-rui.jpg",
-    "tag": "non-veg,fish,rohu,curd"
-  },
-  {
+    "imgUrl": "data/recipe-images/doi-rui.jpg",
+    "tag": "non-veg,fish,rohu,curd",
+    "slNo": "6",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Dimer Dalna",
     "id": "Dimer-Dalna",
     "imgUrl": "data/recipe-images/Dimer-Dalna.JPG",
-    "tag": "non-veg,egg,curry,jhol"
-  },
-  {
+    "tag": "non-veg,egg,curry,jhol",
+    "slNo": "7",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Laal Note Shaak Bhaja",
     "id": "Laal-Note-Shaak-Bhaja",
     "imgUrl": "data/recipe-images/Laal-Note-Shaak-Bhaja.JPG",
-    "tag": "pure-veg,red,leaves,fry fried"
-  },
-  {
+    "tag": "pure-veg,red,leaves,fry fried",
+    "slNo": "8",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Mixed Vegetable Pulao",
     "id": "Mixed-Vegetable-Pulao",
-    "imgUrl":"data/recipe-images/veg-pulao.jpg",
-    "tag": "pure-veg,mixed,rice"
-  },
-  {
+    "imgUrl": "data/recipe-images/veg-pulao.jpg",
+    "tag": "pure-veg,mixed,rice",
+    "slNo": "9",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Matar Paneer",
     "id": "Matar-Paneer",
     "imgUrl": "data/recipe-images/matar-paneer.jpg",
-    "tag": "pure-veg,motor peas"
-  },
-  {
+    "tag": "pure-veg,motor peas",
+    "slNo": "10",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Mixed Vegetable Chutni",
     "id": "Mixed-Vegetable-Chutni",
-    "imgUrl":"data/recipe-images/Mixed-Veg-Chutney.jpg",
-    "tag": "pure-veg,mixed,chutney,sweet,pumpkin,Brinjal,tomato,papaya,beans"
-  },
-  {
+    "imgUrl": "data/recipe-images/Mixed-Veg-Chutney.jpg",
+    "tag": "pure-veg,mixed,chutney,sweet,pumpkin,Brinjal,tomato,papaya,beans",
+    "slNo": "11",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Mocha Ghanto",
     "id": "Mocha-Ghanto",
-    "imgUrl":"data/recipe-images/Mochar-Ghonto.jpg",
-    "tag": "pure-veg,banana"
-  },
-  {
+    "imgUrl": "data/recipe-images/Mochar-Ghonto.jpg",
+    "tag": "pure-veg,banana",
+    "slNo": "12",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Muri Ghonto",
     "id": "Muri-Ghonto",
     "imgUrl": "data/recipe-images/murighonto1.jpg",
-    "tag": "non-veg,rice,fish"
-  },
-  {
+    "tag": "non-veg,rice,fish",
+    "slNo": "13",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Palak Paneer",
     "id": "Palak-Paneer",
-    "imgUrl":"data/recipe-images/Palak-Paneer.jpg",
-    "tag": "pure-veg,spinach"
-  },
-  {
+    "imgUrl": "data/recipe-images/Palak-Paneer.jpg",
+    "tag": "pure-veg,spinach",
+    "slNo": "14",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Potoler Daalna",
     "id": "Potoler-Daalna",
-    "imgUrl":"data/recipe-images/potoler-dalna.JPG",
-    "tag": "pure-veg,parwal parval,curry,jhol, "
-  },
-  {
+    "imgUrl": "data/recipe-images/potoler-dalna.JPG",
+    "tag": "pure-veg,parwal parval,curry,jhol, ",
+    "slNo": "15",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Puti Machher Jhal",
     "id": "Puti-Macher-Jhal",
     "imgUrl": "data/recipe-images/Puti-Macher-Jhal.JPG",
-    "tag": "non-veg, fish, kucho "
-  },
-  {
+    "tag": "non-veg, fish, kucho ",
+    "slNo": "16",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Sweet Pulao",
     "id": "Sweet-Pulao",
     "imgUrl": "data/recipe-images/sweet-pulao.jpg",
-    "tag": "pure-veg, rice, Peas Koraishuti"
-  },
-  {
+    "tag": "pure-veg, rice, Peas Koraishuti",
+    "slNo": "17",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}, {
     "name": "Shukto",
     "id": "Shukto",
     "imgUrl": "data/recipe-images/Sojne-data-diye-shukto.jpg",
-    "tag": "pure-veg,sour,green,Drumsticks Shojne Sojne Data,French Beans Shim,Radish Mulo,Papaya Pepe,Carrot Gajor,Pumpkin Kumro,Brinjal Begun,Gourd Karola karala,Banana kola kela kala,Coconut,Vadi bodi bori"
-  }
-]
+    "tag": "pure-veg,sour,green,Drumsticks Shojne Sojne Data,French Beans Shim,Radish Mulo,Papaya Pepe,Carrot Gajor,Pumpkin Kumro,Brinjal Begun,Gourd Karola karala,Banana kola kela kala,Coconut,Vadi bodi bori",
+    "slNo": "18",
+    "timeToCook": "",
+    "ingreds": "",
+    "category": "",
+    "type": "",
+    "altName": ""
+}]
